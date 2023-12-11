@@ -7,9 +7,15 @@ Autor: Jesús López Jareño
 
 
 Fecha: Diciembre 2023
-
-
 ## Planteamiento
+
+<center>
+<figure>
+    <img src="docs-images/persona-trabajando-html-computadora.jpg" alt="Representación de un hombre trabajando con un ordenador que esta rodeado de tecnología" width="80%" style="max-width: 600px"/>
+    <figcaption>Freepik, n.d.</figcaption>
+</figure>
+</center>
+
 En un mundo donde cada vez más tecnología inunda nuestra vida cotidiana, el concepto de hibridación aparece como un pilar fundamental en como comprender la evolución cultural y tecnológica. Lev Manovich en su libro “El software toma el mando” (Manovich, 2013) hace referencia a sobre cómo los medios digitales se tranforman y se integran con diversas formas de expresión en nuestra vida cotidiana. Este suceso lo define como hibridación, que simplemente quiere decir que no es una mezcla sino una fusión sinérgica que generan nuevas formas de medios y que redefinen nuestra interacción con el mundo digital. 
 
 Manovich nos expresa la hibridación como una convergencia entre distintas tecnologías, cultura y arte. Llevando a crear un tejido interconectado donde lo nuevo tiene una base de lo antiguo. Esta analogía no solo implica una combinación de medios como el texto, audio o video, sino también la integración de nuevas funciones, roles y contextos que nos dan paso a que nazcan nuevas experiencias hibridas que son familiares y nuevas a la vez. Esta hibridación también nos hace que la interacción entre el usuario y la tecnología sea más profunda, lo que quiere decir, que no se quede simplemente en una tecnología que se consuma, sino que también se pueden personalizar, crear e interactuar. Estas características nos permiten que nazcan nuevas formas de creatividad y expresión.
@@ -21,6 +27,13 @@ En este ensayo, exploraremos como este concepto de hibridación se expresa en do
 
 
 ## Re-descubriendo la hibridacion: Provador virtual de Hawkers
+<center>
+<figure>
+    <img src="docs-images/HAWKERS_LOGO.jpg" alt="Logo de la empresa Hawkers" width="300"/>
+    <figcaption>(GFHarris, n.d.)</figcaption>
+</figure>
+</center>
+
 Hawkers es una marca de gafas de sol que ha revolucionado el marcado de la moda con su espectacular crecimiento, innovación y su buen marketing en el comercio electrónico. Hawkers ha ejemplificado el concepto de hibridación dentro del comercio electrónico con su probador virtual que incorpora realidad aumentada. Esta nueva tecnología permite a sus clientes que experimenten con diferentes estilos de gafas y pudiendo comprobar cómo le sientan las gafas antes de decidirse a comprarlas. Todo ello, mediante la conexión a internet utilizando un navegador web y dando permiso a la cámara del dispositivo desde el que se conecta.
 
 Esta hibridación en Hawkers no se limita a la combinación de moda y tecnología, ya que ha redefinido la experiencia de compra que tienen sus clientes a la hora de comprar su producto. Este probador virtual ofrece una solución a un problema clave que tiene todo el comercio electrónico de la moda: la incapacidad de probar los productos antes de comprarlos. Al superar esta barrera, la marca no solo mejora la funcionalidad de su página web, también enriquece la experiencia con el cliente debido a que les ofrece una interacción más personal e inmersiva con sus productos. La tecnología de realidad aumentada que utiliza Hawkers se representa en la hibridación de los medios como una forma de combinar elementos visuales que están presentes en el mundo real con la información digitalizada y superpuesta, llevando a que esta tecnología se salte los limites tradiciones de la físico y lo digital. Dando como resultado al cliente una experiencia de compra que es tangible e intangible a la misma vez. 
@@ -33,13 +46,34 @@ En este mundo donde los límites entre lo que es virtual y real es cada vez más
 
 
 ## Re-descubriendo la hibridacion: Spotify
+<center>
+<figure>
+    <img src="docs-images/Spotify_logo_with_text.svg" alt="Logo de la empresa Spotify" width="400"/>
+    <figcaption>(Spotify, n.d.)</figcaption>
+</figure>
+</center>
+
 Spotify, es una plataforma de música en streaming que es líder mundial. Esta plataforma ha destacado por sus múltiples formas de clasificar la música por géneros o estados de ánimo, como también por las recomendaciones de música que ofrece de forma personalizada para el usuario. En este ejemplo de hibridación alineado con las teorías de Manovich, podemos observar cómo Spotify combina tecnología, datos y cultura para ofrecer una experiencia musical única para cada usuario y observado la evolución que han sufrido los formatos tradicionales de producción de música.
 
 En la era de los vinilos, cassetes y CD la música tenía una experiencia limitada por el acceso a estos recursos físicos. Los oyentes dependían de tener las colecciones físicas para poder reproducir música y tener que transportarlos para escucharlos allá donde quisieran. Spotify ha transformado esta forma de reproducir música eliminando las barreras físicas y permitiendo que un usuario pueda acceder a una biblioteca de música ilimitada desde cualquier lugar del mundo desde su dispositivo móvil y en cualquier momento. Esta nueva hibridación de lo físico a lo digital ha democratizado la música, haciendo que sea más accesible a un público más amplio y sin restricciones físicas.  Además, ha cambiado la forma en la que interactuamos con la música. Con los sistemas físicos tendríamos que ir a comprar el álbum y después cargarlo en el dispositivo reproductor, ahora simplemente descargando la aplicación y con unos cuantos clics, podemos escuchar el último tema de nuestro artista favorito. 
 
 Spotify no solo ha cambiado la forma en la que accedemos a la música, también a como somo capaces de descubrir música nueva.  En el pasado, el descubrimiento ocurría mediante las recomendaciones de amigos, la comprar de álbumes con buenas reseñas o escuchando una canción en la radio. Ahora con Spotify al recolectar datos sobre las canciones que escuchamos y nos gustan, nos ofrece una recomendación de nuevas canciones que nos pueden interesar, además de poder acceder a ella de forma clasificada por géneros o listas de recomendación de amigos. Al recoger nuestra información de la música que escuchamos, es capaz de recomendarnos artistas nuevos y promover a artistas emergentes y géneros en auge. Con esta capacidad de influir en las tendencias musicales, se muestra como la hibridación de esta aplicación es capaz de influir en la cultura musical que permite que las personas realmente escuchen la música que les gusta en cualquier momento. 
 
-Otra característica de hibridación que contiene Spotify es “Wrapped”. Al final de cada año, ofrece un resumen de forma personalizada de los artistas y canciones más escuchadas por el usuario, entre otros datos interesantes. La hibridación de esta funcionalidad se ha convertido en cultural ya que se comparten los resultados en redes sociales y llevan a debates o conversaciones sobre tendencias musicales en el año. 
+<center>
+<figure>
+    <img src="docs-images/PlaylistedTrends_Share-Image-1920x733.jpg" alt="Representación de los generos y tendencias dentro de Spotify" width="80%" style="max-width: 900px"/>
+    <figcaption>(Spotify, n.d.)</figcaption>
+</figure>
+</center>
+
+Otra característica de hibridación que contiene Spotify es “Wrapped”. Al final de cada año, ofrece un resumen de forma personalizada de los artistas y canciones más escuchadas por el usuario, entre otros datos interesantes. La hibridación de esta funcionalidad se ha convertido en cultural ya que se comparten los resultados en redes sociales y llevan a debates o conversaciones sobre tendencias musicales en el año.
+
+<center>
+<figure>
+    <img src="docs-images/FTR_Sound-Town-Header-1440x733.jpg" alt="Pantalla de la aplicación Spotify mostrado la utilida de Wrapped" width="80%" style="max-width: 700px"/>
+    <figcaption>(Spotify, n.d.)</figcaption>
+</figure>
+</center>
 
 En resumen, Spotify es una hibridación en el ámbito musical que ha marcado el paso de los formatos físicos a un acceso digital desde cualquier lugar. Esta transformación nos ha llevado más allá de la tecnología, ha sido una reconfiguración de la cultura y la experiencia de reproducir música que refleja el espíritu de hibridación descrito por Manovich, dende la música física ahora fluye en el espacio digital. 
 
