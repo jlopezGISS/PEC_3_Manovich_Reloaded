@@ -92,7 +92,13 @@ En resumen, la hibridación de Manovich es un paradigma que redefine como intera
 * MARTÍN BARBERO, I. (2023, November 16). Spotify potencia la búsqueda de contenido con inteligencia artificial de Google. Cinco Días. https://cincodias.elpais.com/cincodias/2023/11/16/lifestyle/1700135142_172210.html
 * Pelegrin, A. (n.d.). ¿Cómo usa Spotify la inteligencia artificial? Larrosa. Retrieved December 10, 2023, from https://www.larrosa.pro/post/c%C3%B3mo-usa-spotify-la-inteligencia-artificial
 * Spotify. (n.d.). Wikipedia. https://es.wikipedia.org/wiki/Spotify
+* Freepik. (n.d.). Persona trabajando html en computadora. Spotify. https://www.freepik.es/foto-gratis/persona-trabajando-html-computadora_36190642.htm#page=2&query=tecnologia&position=6&from_view=search&track=sph&uuid=2a70dcbf-1668-4217-803a-36171ed865e6
+* GFHarris. (n.d.). HAWKERS LOGO.jpg. Wikimedia. https://commons.wikimedia.org/wiki/File:HAWKERS_LOGO.jpg
+* Spotify. (n.d.-a). How Spotify’s Playlists Captured the Biggest Music Trends of 2023. Spotify. https://newsroom.spotify.com/2023-11-29/music-editorial-playlists-genres-trends/
+* Spotify. (n.d.-b). Spotify logo with text.svg . Wikipedia. https://es.m.wikipedia.org/wiki/Archivo:Spotify_logo_with_text.svg
+* Spotify. (n.d.-c). Spotify Wrapped Sound Town: All You Need To Know. Spotify. https://newsroom.spotify.com/2023-12-01/wrapped-sound-town-berkeley-burlington-cambridge/
  
+
 
 ----
 
